@@ -6,5 +6,4 @@
 - 📫 How to reach me: fragranceXs
 - 😄 Pronouns: xiaoshengmr
 - ⚡ Fun fact: ...
-- 
 ![](https://github-readme-stats.vercel.app/api?username=xiaoshengMr)
