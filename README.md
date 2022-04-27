@@ -4,7 +4,5 @@
 - 🌱 I’m currently learning Distrubuted Database
 - 💬 Ask me about Streaming Systems
 - 📫 How to reach me: fragranceXs
-- 😄 Pronouns: xiaoshengmr
-- ⚡ Fun fact: Flink
-
+- 
 ![](https://github-readme-stats.vercel.app/api?username=xiaoshengMr)
